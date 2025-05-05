@@ -33,6 +33,19 @@ The doctoral programme covers the following fields:
 
 ---
 
+---
+
+## 📂 Supervisor Portfolio
+
+[![Supervisor Portfolio](https://img.shields.io/badge/Supervisors-View%20Profiles-blue)](https://aaugs-dp-biosciences-and-drug-research.github.io/supervisor-portfolio/)
+
+Explore the profiles of supervisors affiliated with the Doctoral Programme:
+
+🔗 [Supervisor Portfolio](https://aaugs-dp-biosciences-and-drug-research.github.io/supervisor-portfolio/)
+
+---
+
+
 ## 🎓 Admission Criteria
 
 > *Special criteria for admission to the Doctoral Programme in Biosciences and Drug Research apply.*  
