@@ -1,11 +1,20 @@
-# Doctoral Programme in Biosciences and Drug Research
+# 🎓 Doctoral Programme in Biosciences and Drug Research  
+**Åbo Akademi University – Unofficial GitHub Organisation**
 
-Welcome to the **unofficial** Github organisation pages for the Doctoral Programme in Biosciences and Drug Research at **Åbo Akademi University**.
+Welcome to the **unofficial GitHub organisation** for the [Doctoral Programme in Biosciences and Drug Research](https://www.abo.fi/en/study-programme/doctoral-programme-in-biosciences-and-drug-research/) at **Åbo Akademi University**.
 
-You can access the live documentation [here](https://aaugs-dp-biosciences-and-drug-research.github.io/Home/)
+📚 Access the full live documentation:  
+👉 [https://aaugs-dp-biosciences-and-drug-research.github.io/Home/](https://aaugs-dp-biosciences-and-drug-research.github.io/Home/)
 
-The organisation is setup in a way that each main topic has a dedicated github repo. Generated using our [template](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/template) that allow the creation of a webpage and a PDF document.
+---
 
+## Structure of the GitHub Organisation
+
+Each key topic within the programme is managed in a **dedicated GitHub repository**, following a shared [template repository](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/template) that automatically generates:
+- 🌐 A public **webpage**
+- 📄 A downloadable **PDF document**
+
+All pages are continuously deployed via **GitHub Pages**.
 
 ---
 
