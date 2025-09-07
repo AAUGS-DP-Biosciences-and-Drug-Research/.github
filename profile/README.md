@@ -1,7 +1,7 @@
 # 🎓 Doctoral Programme in Biosciences and Drug Research  
 **Åbo Akademi University – Unofficial GitHub Organisation**
 
-Welcome to the **unofficial GitHub organisation** for the [Doctoral Programme in Biosciences and Drug Research](https://www.abo.fi/en/study-programme/doctoral-programme-in-biosciences-and-drug-research/) at **Åbo Akademi University**.
+Welcome to the **unofficial GitHub organisation** for the Doctoral Programme in Biosciences and Drug Research at **Åbo Akademi University**.
 
 📚 Access the full live documentation:  
 👉 [https://aaugs-dp-biosciences-and-drug-research.github.io/Home/](https://aaugs-dp-biosciences-and-drug-research.github.io/Home/)
