@@ -4,8 +4,7 @@ Welcome to the **unofficial** Github organisation pages for the Doctoral Program
 
 You can access the live documentation [here](https://aaugs-dp-biosciences-and-drug-research.github.io/Home/)
 
-The organisation is setup in a way that each main topic has a dedicated repo. Generated using our template that allow the creation of a webpage and a PDF document.
-
+The organisation is setup in a way that each main topic has a dedicated github repo. Generated using our [template](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/template) that allow the creation of a webpage and a PDF document.
 
 
 ---
@@ -38,27 +37,34 @@ To learn more about our doctoral programme, use the links below.
 ### Learning Goals  
 - 🌐 [View Online](https://aaugs-dp-biosciences-and-drug-research.github.io/LearningGoals/)  
 - 📄 [Download PDF](https://aaugs-dp-biosciences-and-drug-research.github.io/LearningGoals/Document.pdf)
+- :octocat: [Github](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/LearningGoals)
 
 ### Supervisor Portfolio  
 - 🌐 [View Online](https://aaugs-dp-biosciences-and-drug-research.github.io/supervisor-portfolio/)  
 - 📄 [Download PDF](https://aaugs-dp-biosciences-and-drug-research.github.io/supervisor-portfolio/Supervisor_Portfolio.pdf)
+- :octocat: [Github](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/supervisor-portfolio)
 
 ### Graduation Requirements  
 - 🌐 [View Online](https://aaugs-dp-biosciences-and-drug-research.github.io/Graduation_Requirements/)  
 - 📄 [Download PDF](https://aaugs-dp-biosciences-and-drug-research.github.io/Graduation_Requirements/Document.pdf)
+- :octocat: [Github](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Graduation_Requirements)
 
 ### Curriculum  
 - 🌐 [View Online](https://aaugs-dp-biosciences-and-drug-research.github.io/Curriculum/)  
 - 📄 [Download PDF](https://aaugs-dp-biosciences-and-drug-research.github.io/Curriculum/Document.pdf)
+- :octocat: [Github](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Curriculum)
 
 ### PhD Follow-up Strategies  
 - 🌐 [View Online](https://aaugs-dp-biosciences-and-drug-research.github.io/Yearly_followup/)  
 - 📄 [Download PDF](https://aaugs-dp-biosciences-and-drug-research.github.io/Yearly_followup/Document.pdf)
+- :octocat: [Github](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Yearly_followup)
 
 ### Get Ready to Graduate  
 - 🌐 _Coming soon_  
 - 📄 _Coming soon_
+- :octocat: _Coming soon_
 
 ### Fund your PhD studies  
 - 🌐 _Coming soon_  
 - 📄 _Coming soon_
+- :octocat: _Coming soon_
