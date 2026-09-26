@@ -37,7 +37,7 @@ If you are interested in applying to join our graduate school and doctoral progr
 
 Åbo Akademi University is a Swedish-language, multidisciplinary university in Finland with campuses in Turku and Vaasa.  
 If you are new to Finland or Turku, you may find this helpful:  
-📘 [ÅAU Survival Guide (2024–2025, PDF)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:07261a93-e34f-4189-bbdc-c6b7dfba41a1)
+📘 [ÅAU Survival Guide (2026–2027, PDF)](https://www.abo.fi/wp-content/uploads/2026/09/uppdaterad-survival_guide_26-27-final.pdf)
 
 ---
 
